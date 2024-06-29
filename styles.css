@@ -1,1 +1,30 @@
-/*  your css code here. If applicable */
+table {
+        border-collapse: collapse;
+        border: 1px solid black;
+        spacing: 1px;
+    }
+
+table.middle {
+        margin: 0 auto;
+    }
+
+td, th {
+        border: 1px solid black;
+        padding: 1px;
+    }
+
+.center {
+        text-align: center;
+    }
+
+.right {
+        text-align: right;
+    }
+
+.green {
+        background-color: green;
+    }
+
+.blue {
+        background-color: blue;
+	}
